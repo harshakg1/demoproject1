@@ -1,2 +1,2 @@
 # demoproject1
-new project
+new project!
